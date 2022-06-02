@@ -4,6 +4,8 @@
 /* font-family: 'Lexend Deca', sans-serif; */
 /* font-family: 'Big Shoulders Display', cursive; */
 
+html,body{margin:0;padding:0;}
+
 .main-box{
     display: flex;
     justify-content: center;
